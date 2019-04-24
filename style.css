@@ -1,0 +1,20 @@
+
+body {
+    color: black;
+    margin-left: 10rem;
+}
+
+h3 {
+    background-color: lightgrey;
+    color: white;
+}
+
+.button {
+    background-color: grey;
+    color: white;
+    width: 250px;
+    /* padding: 15px 25px; */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+  }
